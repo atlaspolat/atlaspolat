@@ -23,8 +23,6 @@ Keyboard-based Machine Learning
 
 YAML Psychotherapy
 
-How to delete Git history in a panic
 
-🐁 Rat-based computing (they're unionizing)
 
 
